@@ -14,7 +14,7 @@ function Request(request) {
     this.user = headers['auth-user'];
     this.password = headers['auth-pass'];
     this.clientIp = headers['client-ip'];
-    this.clienHost = headers['client-host'];
+    this.clientHost = headers['client-host'];
     this.host = headers['host'];
     this.loginAttempt = headers['auth-login-attempt'];
 }
