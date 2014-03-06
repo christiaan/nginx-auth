@@ -10,6 +10,7 @@
     "Nginx",
     "auth"
   ],
+  "repository" : {"type": "git", "url": "git://github.com/christiaan/nginx-auth.git"},
   "author": "Christiaan Baartse",
   "license": "MIT"
 }
